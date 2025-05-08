@@ -1,0 +1,16 @@
+weather {"time": "2024-04-10 05:12:37", "temperature": 25.6, "humidity": 87.7}
+weather {"time": "2024-04-10 05:12:41", "temperature": 7.5, "humidity": 57.7}
+weather {"time": "2024-04-10 05:12:45", "temperature": 36.2, "humidity": 42.4}
+weather {"time": "2024-04-10 05:12:49", "temperature": 35.0, "humidity": 53.1}
+weather {"time": "2024-04-10 05:12:53", "temperature": 30.8, "humidity": 58.5}
+weather {"time": "2024-04-10 05:12:57", "temperature": 37.7, "humidity": 63.2}
+weather {"time": "2024-04-10 05:13:01", "temperature": 21.6, "humidity": 43.9}
+weather {"time": "2024-04-10 05:13:05", "temperature": 29.2, "humidity": 97.5}
+weather {"time": "2024-04-10 05:13:09", "temperature": 7.2, "humidity": 43.7}
+weather {"time": "2024-04-10 05:13:13", "temperature": 36.0, "humidity": 64.9}
+weather {"time": "2024-04-10 05:13:17", "temperature": 9.2, "humidity": 87.8}
+weather {"time": "2024-04-10 05:13:21", "temperature": 32.8, "humidity": 73.6}
+weather {"time": "2024-04-10 05:13:25", "temperature": 27.3, "humidity": 49.5}
+weather {"time": "2024-04-10 05:13:29", "temperature": 20.3, "humidity": 40.8}
+weather {"time": "2024-04-10 05:13:33", "temperature": 5.8, "humidity": 45.8}
+weather {"time": "2024-04-10 05:13:37", "temperature": 38.9, "humidity": 42.6}
